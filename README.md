@@ -7,6 +7,10 @@ Create virtualenv
 
 Pip install django 
 
+python -m django3 version
+
+Create new django app => django-admin startproject mysite 
+
 python3 manage.py createsuperuser
 
 python3 manage.py startapp <app_name> 
